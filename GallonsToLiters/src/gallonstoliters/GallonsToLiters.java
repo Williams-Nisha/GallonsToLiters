@@ -16,7 +16,7 @@ public class GallonsToLiters {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-                double gallons; // holds number of galllons
+        double gallons; // holds number of galllons
         double liters; // holds conversion to liters
         gallons = 10; // start with 10 gallons
         liters = gallons * 3.7854; //convert to liters
