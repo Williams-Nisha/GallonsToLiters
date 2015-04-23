@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package galltolit;
+package gallonstoliters;
 
 /**
  *
  * @author Nisha
  */
-public class GallToLit {
+public class GallonsToLiters {
 
     /**
      * @param args the command line arguments
